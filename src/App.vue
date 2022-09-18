@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>New To CodeSandbox</h1>
+    <p>Update this one also</p>
     <NewComp />
   </div>
 </template>
