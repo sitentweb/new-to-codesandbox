@@ -1,6 +1,7 @@
 <template>
   <div>
     <button class="new-button">New Button</button>
+    <p>Update this component</p>
   </div>
 </template>
 

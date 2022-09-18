@@ -2,6 +2,7 @@
   <div>
     <h1>New To CodeSandbox</h1>
     <p>Update this one also</p>
+    <p>Directly updated from vscode</p>
     <NewComp />
   </div>
 </template>
