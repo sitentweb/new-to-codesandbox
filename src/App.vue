@@ -3,6 +3,7 @@
     <h1>New To CodeSandbox</h1>
     <p>This is the new one</p>
     <p>This is new para</p>
+    <p>By VSCode</p>
     <NewComp />
   </div>
 </template>
